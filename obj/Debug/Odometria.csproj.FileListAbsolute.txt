@@ -1,0 +1,17 @@
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\Odometria.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\Info.g.cs
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\MainWindow.g.cs
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\App.g.cs
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\Odometria_MarkupCompile.cache
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\Odometria_MarkupCompile.lref
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\bin\Debug\Odometria.exe.config
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\bin\Debug\Odometria.exe
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\bin\Debug\Odometria.pdb
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\MainWindow.baml
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\Info.baml
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\Odometria.g.resources
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\Odometria.Properties.Resources.resources
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\Odometria.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\Odometria.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\Odometria.exe
+C:\Users\victo\Desktop\Ingeniería Informática\Robótica\odometria\obj\Debug\Odometria.pdb

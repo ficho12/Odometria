@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Odometria"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Vista recorrido" Height="450" Width="800" KeyDown="OnKeyDownHandler">
     <Grid>
-        
+        <Canvas x:Name="Canvas" Background="Beige" VerticalAlignment="Center" HorizontalAlignment="Center" Height="450" Width="800"/>
     </Grid>
 </Window>
