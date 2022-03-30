@@ -23,6 +23,6 @@ namespace Odometria
         public MainWindow()
         {
             InitializeComponent();
-        }
+        } //comentario
     }
 }
